@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakeyshc
-- 👀 I’m interested in React and Java
-- 🌱 I’m currently learning Typescript, NextJS and Advanced styling
-- 💞️ I’m looking to collaborate on both BackEnd and FrontEnd especially a complete end to end solution
+- 👀 I’m interested in Java, Spring, Microservices, Cloud, Next.js & React  
+- 🌱 I’m currently learning Reactive Java and Kafka
+- 💞️ I’m looking to collaborate on both BackEnd and FrontEnd side of things
 - 📫 I am currently preparing for my AWS and GCP Certifications
 
 <!---
