@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakeyshc
 - 👀 I’m interested in Java, Spring, Microservices, React, Next.js, Typescript
 - 🌱 I’m currently learning and planning :nerd_face: to learn node.js, Rx Java, Kafka,  GraphQL
-- 💞️ I’m looking to collaborate on both BackEnd and FrontEnd side of things
+- 💞️ A T-shape Engineer looking to collaborate on both backend and frontend.
 - 📫 I am currently preparing for my AWS and GCP Certifications
 
 <!---
