@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakeyshc
 - 👀 I’m interested in Java/Spring based Microservices and React / Next / Typescript Microfrontends
-- 🌱 I’m currently learning and planning :nerd_face: to learn node.js, Rx Java, Kafka,  GraphQL
+- 🌱 I’m currently learning Rx Java, Kafka,  GraphQL
 - 💞️ A T-shape Engineer looking to collaborate on both backend and frontend development
 - 📫 I am currently preparing for my Kubernetes CKAD Certification
 
