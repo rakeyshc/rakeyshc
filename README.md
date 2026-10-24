@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rx Java, Kafka,  GraphQL
 - 💞️ A T-shape Engineer looking to collaborate on both backend and frontend development
 - 📫 I am currently preparing for my Kafka, Kubernetes CKAD, AWS Certifications
-- 💞️ Love working and interacting with Beautiful Minds...
+- 💞️ Love working and interacting with Beautiful Minds...which are not Political
 
 <!---
 rakeyshc/rakeyshc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
